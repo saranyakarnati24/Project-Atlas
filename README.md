@@ -1,1 +1,1 @@
-# Project-Atlas
+# Project Atlas
